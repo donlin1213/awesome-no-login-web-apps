@@ -323,6 +323,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Utilities (uncategorized)
 
 * [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
+* [Toolio](https://toolio.pongvn.com) - 146 free browser tools — calculators, PDF, image & video, converters, QR, JSON, timers. Most run fully client-side (no upload, works offline); 6 languages.
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
